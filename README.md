@@ -1,4 +1,4 @@
-# 🎙️ Varco Voice Studio for Unity
+# Varco Voice Studio for Unity
 
 ![Unity](https://img.shields.io/badge/Unity-6000.2%2B-black?logo=unity) ![C#](https://img.shields.io/badge/C%23-Editor%20Scripting-239120?logo=c-sharp) ![Platform](https://img.shields.io/badge/Platform-PC%20%7C%20Mac-lightgrey)
 
