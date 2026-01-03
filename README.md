@@ -64,10 +64,10 @@
 
 ---
 
-## 👨‍💻 Developer
+## Developer
 
 * **Name:** 이유진
-* **Role:** Unity Developer / Technical Artist (Aspiring)
+* **Role:** Unity Developer / Technical Artist
 * **Contact:** elly3385@gmail.com
 
 ---
