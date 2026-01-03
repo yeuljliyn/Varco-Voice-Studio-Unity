@@ -1,6 +1,6 @@
 # Varco Voice Studio for Unity
 
-![Unity](https://img.shields.io/badge/Unity-6000.2%2B-black?logo=unity) ![C#](https://img.shields.io/badge/C%23-Editor%20Scripting-239120?logo=c-sharp) ![Platform](https://img.shields.io/badge/Platform-PC%20%7C%20Mac-lightgrey)
+![Unity](https://img.shields.io/badge/Unity-6000.2%2B-black?logo=unity) ![C#](https://img.shields.io/badge/C%23-Editor%20Scripting-239120?logo=c-sharp)
 
 > **NC AI의 VARCO TTS API를 유니티 에디터(Window)에 통합하여, 기획자와 아티스트가 게임 엔진 내부에서 즉시 고품질 음성 자산을 생성하고 관리할 수 있도록 돕는 도구입니다.**
 
